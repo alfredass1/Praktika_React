@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27700a5d-1049-4694-9085-2af52250b7d7" name="Default Changelist" comment="" />
+    <list default="true" id="27700a5d-1049-4694-9085-2af52250b7d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/holidays/Holidays.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/holidays/Holidays.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/nav/Nav.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/nav/nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/orders/Orders.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/orders/Orders.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/product/Product.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/holiday/Holiday.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/product/product.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/holiday/holiday.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +24,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZDj4Nw4CTo8ZMuOnrln7mW5DMh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,8 +35,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-shop" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -84,6 +100,7 @@
       <workItem from="1584459547512" duration="12711000" />
       <workItem from="1584477454962" duration="7688000" />
       <workItem from="1584528364537" duration="28389000" />
+      <workItem from="1585473354148" duration="13838000" />
     </task>
     <servers />
   </component>
@@ -99,34 +116,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584380697258" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584386852826">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1585488416619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584386852826" />
-    <state width="723" height="150" key="GridCell.Tab.0.bottom" timestamp="1584565398122">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585488416619" />
+    <state width="1493" height="150" key="GridCell.Tab.0.bottom" timestamp="1585493304099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="150" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584565398122" />
-    <state width="723" height="150" key="GridCell.Tab.0.center" timestamp="1584565398122">
+    <state width="1493" height="150" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585493304099" />
+    <state width="1493" height="150" key="GridCell.Tab.0.center" timestamp="1585493304098">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="150" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584565398122" />
-    <state width="723" height="150" key="GridCell.Tab.0.left" timestamp="1584565398122">
+    <state width="1493" height="150" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585493304098" />
+    <state width="1493" height="150" key="GridCell.Tab.0.left" timestamp="1585493304098">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="150" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584565398122" />
-    <state width="723" height="150" key="GridCell.Tab.0.right" timestamp="1584565398122">
+    <state width="1493" height="150" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585493304098" />
+    <state width="1493" height="150" key="GridCell.Tab.0.right" timestamp="1585493304098">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="150" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584565398122" />
+    <state width="1493" height="150" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585493304098" />
     <state x="407" y="4" width="375" height="631" maximized="true" key="dock-window-1" timestamp="1584529814772">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="407" y="4" width="375" height="631" maximized="true" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1584529814772" />
-    <state x="-6" y="0" width="781" height="830" key="dock-window-2" timestamp="1584564937197">
+    <state x="-6" y="0" width="781" height="830" key="dock-window-2" timestamp="1585473366668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-6" y="0" width="781" height="830" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1584564937197" />
+    <state x="-6" y="0" width="781" height="830" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1585473366668" />
     <state x="809" y="190" key="run.anything.popup" timestamp="1584476728624">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

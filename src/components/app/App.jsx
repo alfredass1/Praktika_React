@@ -1,9 +1,7 @@
 import React from 'react';
 import Header from "../header/Header";
 import Main from "../main/Main";
-import Product from "../product/Product"
-import Navigation from "../nav/Nav"
-
+import Holiday from "../holiday/Holiday"
 
 import {
     BrowserRouter as Router,
@@ -17,7 +15,6 @@ export function App() {
     return(
         <div className="container">
         <Header/>
-            <Navigation/>
             <Router>
                 <div>
                     <Switch>
@@ -25,7 +22,7 @@ export function App() {
                             <Main/>
                         </Route>
                         <Route path="/orders" component={Orders}/>
-                        <Route path="/product/:id" component={Product}/>
+                        <Route path="/holiday/:id" component={Holiday}/>
                     </Switch>
                 </div>
             </Router>

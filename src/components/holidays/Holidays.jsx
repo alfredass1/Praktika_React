@@ -7,7 +7,7 @@ function Holidays(props) {
             return(
             <div className="col-lg-4 col-md-6 mb-4">
                 <div className="card h-100">
-                    <img src={ `${holiday.img}` } />
+                    <a href="#"><img className="card-img-top" src={"http://praktika.test/storage/" + holiday.img} alt=""/></a>
 
                     <div className="card-body">
                         <h4 className="card-title">
@@ -16,7 +16,7 @@ function Holidays(props) {
                         <p className="card-text">{holiday.description}</p>
                     </div>
                     <div className="card-footer">
-                        <Link to={link} type="submit" >More...</Link>
+                        <Link to={link} type="submit" >Daugiau...</Link>
                     </div>
                 </div>
             </div>

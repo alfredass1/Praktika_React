@@ -21,7 +21,7 @@ class Orders extends Component {
     handleSubmit(event) {
         event.preventDefault();
         const fd = new FormData();
-        fd.append('img', this.state.img);
+        fd.append('img',  this.state.img);
         fd.append('title', this.state.title);
         fd.append('description', this.state.description);
         axios.post('http://praktika.test/api/store-holiday', fd)

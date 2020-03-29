@@ -31,8 +31,8 @@ class Main extends Component{
                 <div className="container">
                         <div className="card-body">
                            <Holidays holidays = {this.state.allHolidays}/>
-                          <div className="col-md-12 text-center">
-                            <div className="btn btn-primary py-2 px-4"><Link to="/orders" type="submit">Pridėti</Link></div>
+                          <div className="text-center">
+                            <div className="btn btn-primary  py-2 px-4 mt-5"><Link to="/orders" type="submit">Pridėti</Link></div>
                           </div>
                         </div>
                     </div>
